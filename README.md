@@ -1,8 +1,13 @@
-- 👋 Hi, I’m @Valdo1995
-- 👀 I’m interested in ...Data Analyst Specialist & SQL
-- 🌱 I’m currently learning ...SQL, Python & PHP
+- 👋 Hi, I’m @Valdo1995 SQL & Front End Engineering Specialist
+- 👀 I’m interested in ...Data Engineering & Front End Engineering
 
-<!---
-Valdo1995/Valdo1995 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+The tools i'm using:
+- Visual Studio Code(Vscode)
+- Microsoft SQL Server(MSSQL)
+- Visual Studio
+- Git
+- Github
+- Linux Ubuntu & Centos
+- MongoDb(NoSQL)
+
+Let's work together...
